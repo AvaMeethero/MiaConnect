@@ -1,13 +1,12 @@
-MiaConnect landing page
-Files: index.html, mia-profile.jpg.
-All CTA buttons point to:
-https://auctionr.org/4/c8ff9948b1242288d6d4f8fb62342e9a
+MiaConnect Website
 
-Free GitHub Pages:
-1. Create a repository (e.g. miaconnect).
-2. Upload index.html and mia-profile.jpg to the repository root.
-3. Go to Settings -> Pages.
-4. Select Deploy from a branch, branch main, folder /(root), then Save.
-5. Copy the URL shown by GitHub Pages.
+Files:
+- index.html: Main landing page with the four supplied advertising integrations (one asiaso link/banner and three brijmohan scripts).
+- mia-profile.jpg: Profile image used by the page.
 
-This is a static landing page only; live calls/chat are provided only if the external destination supports them. Review the destination's content, privacy and payment terms before publishing.
+To update GitHub Pages:
+1. Extract this ZIP.
+2. Upload index.html and mia-profile.jpg to the root of your GitHub repository, replacing the old files.
+3. Commit changes and wait a few minutes for GitHub Pages to publish.
+
+Note: The advertising scripts are third-party code. Whether each ad displays depends on the ad provider and browser settings.
